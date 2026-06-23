@@ -7,9 +7,11 @@ you can download training data from https://drive.google.com/drive/folders/19DLr
 
 ### Training
 Train the model by following the command lines below. (Waiting update)
+
 --python train.py
 
 Details:
+
 --data_path: [should be filled in the directory to the training dataset]
 --ckpt_path: [the location of your training model]
 

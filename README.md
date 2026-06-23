@@ -13,8 +13,10 @@ https://github.com/user-attachments/assets/1d052dcd-ba65-4f4f-bddf-2aee0f9228eb
 
 • PyTorch >= 1.5
 
-### Dataset
-you can download training data from https://drive.google.com/drive/folders/19DLr27P9xMOTn_W6hxpxxm8_5jJoX-nR
+### Datasets
+This study uses publicly available datasets. The CelebV-HQ used for training and testing is available at https://drive.google.com/drive/folders/19DLr27P9xMOTn_W6hxpxxm8_5jJoX-nR.
+
+VFHQ also used for tesing is available at https://liangbinxie.github.io/projects/vfhq/
 
 ### Training
 Train the model by following the command lines below. (Waiting update)

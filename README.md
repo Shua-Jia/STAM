@@ -1,5 +1,12 @@
 
-![Demo](./Demo/demo01.mp4)
+<video 
+  src="https://raw.githubusercontent.com/Shua-Jia/STAM/main/Demo/demo01.mp4" 
+  width="700" 
+  autoplay 
+  loop 
+  muted 
+  playsinline>
+</video>
 
 # STAM
 This is the program page of our latest STAM approach for Face Video Super-Resolution(FVSR).   Version 1

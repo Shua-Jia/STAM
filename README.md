@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/f6b0482d-9ba9-4857-ac14-3c9a0cdb3ce0
+
 # STAM
 This is the program page of our latest STAM approach for Face Video Super-Resolution(FVSR).   Version 1
 

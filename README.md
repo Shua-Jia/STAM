@@ -7,6 +7,10 @@ This is the program page of our latest STAM approach for Face Video Super-Resolu
 
 https://github.com/user-attachments/assets/1d052dcd-ba65-4f4f-bddf-2aee0f9228eb
 
+### Environment
+
+• Python 3.8
+• PyTorch >= 1.5
 
 ### Dataset
 you can download training data from https://drive.google.com/drive/folders/19DLr27P9xMOTn_W6hxpxxm8_5jJoX-nR

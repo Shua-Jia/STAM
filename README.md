@@ -9,9 +9,9 @@ https://github.com/user-attachments/assets/1d052dcd-ba65-4f4f-bddf-2aee0f9228eb
 
 ### Environment
 
-• Python 3.8
+• Python 3.8.19
 
-• PyTorch >= 1.5
+• PyTorch >= 2.4.1
 
 ### Datasets
 This study uses publicly available datasets. The CelebV-HQ used for training and testing is available at https://drive.google.com/drive/folders/19DLr27P9xMOTn_W6hxpxxm8_5jJoX-nR.

@@ -20,6 +20,9 @@ This study uses publicly available datasets. The CelebV-HQ used for training and
 
 VFHQ also used for tesing is available at https://liangbinxie.github.io/projects/vfhq/
 
+### Pretrained model
+you can get pretrained model from https://drive.google.com/file/d/1_m00UD33QhmoDJhLTYNiJ5zKobyzWojw/view?usp=drive_link
+
 ### Training
 Train the model by following the command lines below.
 

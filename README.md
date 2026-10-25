@@ -33,7 +33,7 @@ Details:
 --data_path: [should be filled in the directory to the training dataset]
 --ckpt_path: [the location of your training model]
 
-### Inference
+### Eval
 After the training you can run the following command to FVSR for evaluation. 
 
 python eval.py --data_path 
